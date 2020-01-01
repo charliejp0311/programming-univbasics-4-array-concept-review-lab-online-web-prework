@@ -39,4 +39,3 @@ def find_min_value(array)
   end
   min_val
 end
-end
